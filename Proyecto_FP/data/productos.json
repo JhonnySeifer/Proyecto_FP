@@ -1,0 +1,31 @@
+[
+    {
+        "id_producto": 1,
+        "codigo": "1111",
+        "nombre": "asdasd",
+        "categoria": "CAUCHO NATURAL",
+        "precio": 111.0,
+        "stock": 50,
+        "descripcion": "",
+        "estado": "ACTIVO"
+    },
+    {
+        "id_producto": 2,
+        "codigo": "1122",
+        "nombre": "asdasdddasda",
+        "categoria": "CAUCHO NATURAL",
+        "precio": 1111.0,
+        "stock": 222,
+        "descripcion": "",
+        "estado": "ACTIVO"
+    },
+    {
+        "id_producto": 3,
+        "codigo": "11666",
+        "nombre": "sdfsf",
+        "categoria": "CAUCHO SINTÉTICO",
+        "precio": 222.0,
+        "stock": 33,
+        "estado": "ACTIVO"
+    }
+]

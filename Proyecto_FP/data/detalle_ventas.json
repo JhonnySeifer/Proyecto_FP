@@ -1,0 +1,42 @@
+[
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 22,
+        "precio": 1111.0,
+        "subtotal": 24442.0,
+        "id_venta": 1
+    },
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 44,
+        "precio": 1111.0,
+        "subtotal": 48884.0,
+        "id_venta": 2
+    },
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 44,
+        "precio": 1111.0,
+        "subtotal": 48884.0,
+        "id_venta": 2
+    },
+    {
+        "id_producto": 1,
+        "producto": "asdasd",
+        "cantidad": 5,
+        "precio": 111.0,
+        "subtotal": 555.0,
+        "id_venta": 3
+    },
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 56,
+        "precio": 1111.0,
+        "subtotal": 62216.0,
+        "id_venta": 3
+    }
+]
