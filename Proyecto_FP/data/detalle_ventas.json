@@ -38,5 +38,69 @@
         "precio": 1111.0,
         "subtotal": 62216.0,
         "id_venta": 3
+    },
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 1,
+        "precio": 1111.0,
+        "subtotal": 1111.0,
+        "id_venta": 4
+    },
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 5,
+        "precio": 1111.0,
+        "subtotal": 5555.0,
+        "id_venta": 4
+    },
+    {
+        "id_producto": 1,
+        "producto": "asdasd",
+        "cantidad": 5,
+        "precio": 111.0,
+        "subtotal": 555.0,
+        "id_venta": 4
+    },
+    {
+        "id_producto": 3,
+        "producto": "sdfsf",
+        "cantidad": 5,
+        "precio": 222.0,
+        "subtotal": 1110.0,
+        "id_venta": 4
+    },
+    {
+        "id_producto": 1,
+        "producto": "asdasd",
+        "cantidad": 1,
+        "precio": 111.0,
+        "subtotal": 111.0,
+        "id_venta": 5
+    },
+    {
+        "id_producto": 1,
+        "producto": "asdasd",
+        "cantidad": 1,
+        "precio": 111.0,
+        "subtotal": 111.0,
+        "id_venta": 5
+    },
+    {
+        "id_producto": 1,
+        "producto": "asdasd",
+        "cantidad": 1,
+        "precio": 111.0,
+        "subtotal": 111.0,
+        "id_venta": 5
+    },
+    {
+        "id_producto": 2,
+        "producto": "asdasdddasda",
+        "cantidad": 1,
+        "precio": 1111.0,
+        "subtotal": 1111.0,
+        "id_venta": 6
     }
 ]

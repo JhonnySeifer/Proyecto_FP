@@ -156,7 +156,7 @@ class FrmVentas:
         frame_total.pack(fill="x", padx=40, pady=10)
 
         self.lbl_total = tk.Label(
-            self.ventana,
+            frame_total,
             text="TOTAL: 0.00",
             font=("Segoe UI", 18, "bold"),
             bg="#F3F4F6"
@@ -180,7 +180,6 @@ class FrmVentas:
 
         tk.Button(frame_botones, text="Limpiar", bg="#6B7280", fg="white",
                 command=self.limpiar, width=15).pack(side="left", padx=5)
-
 
     # =========================================
     # CARGA INICIAL (IMPORTANTE)

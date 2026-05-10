@@ -25,5 +25,32 @@
         "igv": 11298.78,
         "total": 74069.78,
         "estado": "ACTIVO"
+    },
+    {
+        "id_venta": 4,
+        "cliente": 7,
+        "sucursal": "asdad",
+        "subtotal": 8331.0,
+        "igv": 1499.58,
+        "total": 9830.58,
+        "estado": "ACTIVO"
+    },
+    {
+        "id_venta": 5,
+        "cliente": 7,
+        "sucursal": "",
+        "subtotal": 333.0,
+        "igv": 59.94,
+        "total": 392.94,
+        "estado": "ACTIVO"
+    },
+    {
+        "id_venta": 6,
+        "cliente": 7,
+        "sucursal": "",
+        "subtotal": 1111.0,
+        "igv": 199.98,
+        "total": 1310.98,
+        "estado": "ACTIVO"
     }
 ]
